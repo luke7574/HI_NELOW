@@ -4,7 +4,7 @@ import wave
 import time
 import os
 import keyboard
-from pynput import keyboard as kb
+# from pynput import keyboard as kb
 from nelow import process_command, create_logged_in_session, load_region_value_map 
 from dotenv import load_dotenv
     
